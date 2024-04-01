@@ -1,3 +1,5 @@
+![Alt text](todo_application.webp)
+
 # To-Do List Application
 
 ## Table of Contents
